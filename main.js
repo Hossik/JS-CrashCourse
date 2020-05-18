@@ -391,7 +391,7 @@ function onSubmit(e) {
 }
 
 //JavaScript Higher Order Functions & Arrays
-
+dfsiohkjvsdjcbxfsdvcds
 
 
 const companies= [
